@@ -1,2 +1,1 @@
-# test-gpg-key
-Testing GPG key
+Testing GitHub handling of revoked OpenPGP uids.
